@@ -1,0 +1,17 @@
+[33mcommit 7d7c02f6915cba7a68512b017f4b23e74d354277[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Jessica <jsuga26912@gmail.com>
+Date:   Sat Mar 7 15:07:39 2026 -0800
+
+    Track model artifacts with Git LFS
+
+ artifacts/models/random_forest.joblib | Bin [31m339534259[m -> [32m134[m bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit e9db6e0bdcb1ed07c5171db442913fde63abb314[m
+Author: Jessica Suga <jsuga26912@gmail.com>
+Date:   Sat Mar 7 10:50:45 2026 -0800
+
+    initial commit
+
+ artifacts/models/random_forest.joblib | Bin [31m0[m -> [32m339534259[m bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
